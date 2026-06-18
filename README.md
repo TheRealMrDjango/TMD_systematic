@@ -18,7 +18,7 @@ The name **Systematic** reflects the ordered, retry‑based, step‑by‑step pr
 
 The latest release is packaged as **`main.zip`** and includes a standalone **Windows executable** (`TMD System.exe`) – no Python installation required.
 
-1. **Download** `main.zip` from the [Releases page]([https://github.com/yourusername/tmd-systematic/releases](https://github.com/TheRealMrDjango/TMD_systematic/releases/tag/v1.0.0).
+1. **Download** `main.zip` from the [Releases page](https://github.com/TheRealMrDjango/TMD_systematic/releases/tag/v1.0.0).
 2. **Extract** the ZIP file to a folder of your choice.
 3. **Run** `main.exe` and follow the on‑screen instructions.
 
